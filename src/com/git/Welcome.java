@@ -11,7 +11,6 @@ public class Welcome {
 		System.out.println("this is antoher line ");
 		System.out.println("added from git file");
 		
-		System.out.println("added");
 		
 		
 
