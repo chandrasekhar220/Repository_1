@@ -7,9 +7,8 @@ public class Welcome {
 
 		System.out.println("hai Welocme to javaWorld");
 		
-		System.out.println("this is antoher line ");
+
 		
-		System.out.println("dones any confilt came");
 		
 	}
 
