@@ -6,7 +6,11 @@ public class Welcome {
 		// TODO Auto-generated method stub
 
 		System.out.println("hai Welocme to javaWorld");
+<<<<<<< HEAD
 		System.out.println("without pull doing the changes");
+=======
+		System.out.println("updated from git directly");
+>>>>>>> branch 'master' of https://github.com/chandrasekhar220/Repository_1.git
 		
 		
 	}
